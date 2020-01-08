@@ -8,3 +8,4 @@
 ## configure object filters
 ## configure password sync
 ## implement multi-forest AD Connect scenarios
+![Image showing secure hybrid access](media/secure-hybrid-access/secure-hybrid-access.png)
