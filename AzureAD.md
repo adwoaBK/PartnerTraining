@@ -1,6 +1,7 @@
 #Plan identity synchronization by using Azure AD Connect
 ## design directory synchronization
 ## implement directory synchronization with directory services, federation services, and Azure endpoints
+<! copmment !>
 
 ##Manage identity synchronization by using Azure AD Connect
 ## monitor Azure AD Connect Health
@@ -8,4 +9,5 @@
 ## configure object filters
 ## configure password sync
 ## implement multi-forest AD Connect scenarios
-![Image showing secure hybrid access](media/secure-hybrid-access/secure-hybrid-access.png)
+![Image showing secure hybrid access](/Images/Logo.jpg)
+
